@@ -7,3 +7,4 @@ Co-taught by two Carnegie Mellon professors (Raja Sooriamurthi & Chris Labash) w
 predictive models, and data visualization technologies and best practices, all with a focus on real-world cases and examples.
 
 
+# CMU-Applied-Data-Science
